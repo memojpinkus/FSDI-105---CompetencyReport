@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.alert-error{
+    border: 1px solid red;
+    background-color: lightcoral;
+}
+
+.hide{
+    display: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.main-menu{
+    background-color: lightblue;
+    padding: 10px 0 0 0;
+    text-align: center;
+}
+
+menu h1{
+    font-size: larger;
+}
+
+.menu-links a{
+    margin: 10px 10px 10px 10px;
+}
+
+div h2{
+    text-align: center;
+    font-size: larger;
+}
+
+.login{
+    text-align: center;
+}
+
+.login-main{
+    border: 1px solid black;
+    width: 500px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+label{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 45%;
+    text-align: right;
+}
+
+main form input, select{
+    display: inline-block;
+    float: left;
+}
+
+main form button{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 100px;
+    text-align: right;
+    margin-left: 900px;
+    margin-top: 20px;
+}
+
+main h2{
+    text-align: center;
+}
+
+.register-title{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
